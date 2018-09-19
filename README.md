@@ -1,3 +1,3 @@
 # SQL
 SQL scriipts
-aaaaaaaaaa
+Just my SQL scripts
